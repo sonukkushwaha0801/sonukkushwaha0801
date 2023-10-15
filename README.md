@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is <i>Sonu Kumar Kushwaha </i> and I'm a <i>B.Tech Final Student, at Axis Institute of Technology and Management, India</i></h3>
+<h3 align="left">My name is <i>Sonu Kumar Kushwaha </i> and I'm a <i>B.Tech Final Year Student, at Axis Institute of Technology and Management, India</i></h3>
 
 ###
 
