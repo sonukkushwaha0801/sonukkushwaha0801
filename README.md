@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Task automation using PYTHON-3<br>🎯 Goals: Web Penetration testing and malware analysis and auditing<br>🎲 Fun fact: I am a BGMI play also</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Web Scraping And Task automation using PYTHON-3<br>🎯 Goals: Web Penetration testing and malware analysis and auditing<br>🎲 Fun fact: I am a BGMI play also</p>
 
 
 
