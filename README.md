@@ -12,8 +12,8 @@
 
 <p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Web Scraping And Task automation using PYTHON-3<br>🎯 Goals: Web Penetration testing and malware analysis and auditing<br>🎲 Fun fact: I am a BGMI play also</p>
 
-###
-
+###  
+ 
 <div align="center">
   <a href="mailto:sonukkushwaha0801@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo"  />
