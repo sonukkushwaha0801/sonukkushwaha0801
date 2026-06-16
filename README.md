@@ -86,10 +86,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
-</div>
+<div align="center"> <img src="https://streak-stats.demolab.com?user=sonukkushwaha0801&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonukkushwaha0801&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph" /> <img src="https://github-profile-trophy.vercel.app?username=sonukkushwaha0801&theme=dracula&column=3&row=1&margin-w=2&margin-h=0&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonukkushwaha0801&radius=16&theme=github-dark&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph" /> </div>
 
 ###
