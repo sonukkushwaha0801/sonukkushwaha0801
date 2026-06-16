@@ -1,18 +1,34 @@
-<h1 align="left">HEY 👋 What's up?</h1>
+<h1 align="left">Hi 👋, I'm Sonu Kumar Kushwaha</h1>
 
 ###
+With this:
 
-<h4 align="left">My name is Sonu Kumar Kushwaha and I'm a B.Tech Graduate from  Axis Institute of Technology and Management, India</h4>
+<h1 align="center">Hi 👋, I'm Sonu Kumar Kushwaha</h1>
+
+<h3 align="center">
+Python Developer • Automation Engineer • DevOps Enthusiast
+</h3>
+
+<p align="center">
+Building scalable backend systems, automation solutions, cloud-native applications, and developer tools using Python.
+</p>
+
+<p align="center">
+🚀 Open to Python Developer, Backend Developer, Automation Engineer, and DevOps opportunities
+</p>
         
 ###
 
-<h2 align="left">About me</h2>
+## About Me
 
-###
+* 💻 Python Developer focused on backend systems, automation, and scalable applications
+* ⚙️ Experienced in building web scrapers, task automation tools, REST APIs, and data-driven solutions
+* 🐧 Comfortable working with Linux, Git, Bash, and modern development workflows
+* ☁️ Currently expanding expertise in Docker, Kubernetes, AWS, CI/CD, and Infrastructure Automation
+* 🚀 Passionate about solving real-world problems through automation and efficient system design
+* 📚 Continuously learning and building production-oriented projects in Backend Development and DevOps
+* 🎯 Seeking opportunities as a Python Developer, Backend Developer, Automation Engineer, or DevOps Engineer
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Web Scraping And Task automation using PYTHON-3<br>🎯 Goals: Web Penetration testing and malware analysis and auditing<br>🎲 Fun fact: I am a BGMI play also</p>  
-
-###  
  
 <div align="center">
   <a href="mailto:sonukkushwaha0801@gmail.com" target="_blank">
@@ -20,15 +36,6 @@
   </a>
   <a href="https://www.linkedin.com/in/sonukkushwaha0801/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://tryhackme.com/p/sonukkushwaha080" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=flat" height="40" alt="tryhackme logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/sonukkushwaha080" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=flat" height="40" alt="hackerrank logo"  />
-  </a>
-  <a href="https://wa.me/+917300928695" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="40" alt="whatsapp logo"  />
   </a>
   <a href="https://www.instagram.com/sonukkushwaha0801/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="40" alt="instagram logo"  />
