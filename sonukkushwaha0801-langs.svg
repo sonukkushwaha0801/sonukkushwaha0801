@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 210" width="480" height="210" role="img" aria-label="Sonu Kumar Kushwaha's Most Used Languages">
+<title>Sonu Kumar Kushwaha — Top Languages</title>
+<defs>
+<style type="text/css"><![CDATA[
+text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+@keyframes fadeIn{from{opacity:0}to{opacity:1}}
+@keyframes growBar{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes slideRow{from{opacity:0;transform:translateX(-14px)}to{opacity:1;transform:translateX(0)}}
+@keyframes segGrow{from{width:0}to{width:var(--w)}}
+.title{opacity:0;animation:fadeIn .5s ease .1s forwards}
+.row{opacity:0;animation:slideRow .45s ease-out forwards;transform-box:fill-box;transform-origin:left center}
+.bar{transform-box:fill-box;transform-origin:left center;animation:growBar .9s cubic-bezier(.25,.8,.3,1) forwards}
+]]></style>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#0a0e1a"/><stop offset="100%" stop-color="#0e1420"/>
+</linearGradient>
+<linearGradient id="borderg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#a855f7" stop-opacity=".4"/>
+  <stop offset="100%" stop-color="#22c55e" stop-opacity=".35"/>
+</linearGradient>
+</defs>
+
+<rect x="1" y="1" width="478" height="208" rx="16" fill="url(#bg)" stroke="url(#borderg)" stroke-width="1.4"/>
+
+<text class="title" x="24" y="34" font-size="15" font-weight="700" fill="#e6edf3">🧬 Most Used Languages</text>
+<line x1="24" y1="46" x2="456" y2="46" stroke="#2d2249" stroke-width="1" opacity=".7"/>
+
+<!-- segmented overview bar -->
+<g transform="translate(24,58)">
+  <rect x="0" y="0" width="432" height="10" rx="5" fill="#1c1a2e"/>
+  <clipPath id="segClip"><rect x="0" y="0" width="432" height="10" rx="5"/></clipPath>
+  <g clip-path="url(#segClip)">
+    <rect class="bar" x="0" y="0" width="182" height="10" fill="#3776ab" style="animation-delay:.3s"/>
+    <rect class="bar" x="182" y="0" width="95" height="10" fill="#4ade80" style="animation-delay:.42s"/>
+    <rect class="bar" x="277" y="0" width="78" height="10" fill="#7c3aed" style="animation-delay:.54s"/>
+    <rect class="bar" x="355" y="0" width="43" height="10" fill="#2496ed" style="animation-delay:.66s"/>
+    <rect class="bar" x="398" y="0" width="34" height="10" fill="#e0234e" style="animation-delay:.78s"/>
+  </g>
+</g>
+
+<!-- language rows: two columns -->
+<g font-size="12.5">
+  <g class="row" style="animation-delay:.9s">
+    <circle cx="30" cy="98" r="5" fill="#3776ab"/>
+    <text x="42" y="102" fill="#cdd3dd">Python</text>
+    <text x="42" y="102" dx="60" fill="#9aa4b2">42.1%</text>
+  </g>
+  <g class="row" style="animation-delay:1.02s">
+    <circle cx="30" cy="122" r="5" fill="#4ade80"/>
+    <text x="42" y="126" fill="#cdd3dd">Shell</text>
+    <text x="42" y="126" dx="60" fill="#9aa4b2">22.0%</text>
+  </g>
+  <g class="row" style="animation-delay:1.14s">
+    <circle cx="30" cy="146" r="5" fill="#7c3aed"/>
+    <text x="42" y="150" fill="#cdd3dd">HCL</text>
+    <text x="42" y="150" dx="60" fill="#9aa4b2">18.1%</text>
+  </g>
+
+  <g class="row" style="animation-delay:1.26s">
+    <circle cx="250" cy="98" r="5" fill="#2496ed"/>
+    <text x="262" y="102" fill="#cdd3dd">Dockerfile</text>
+    <text x="262" y="102" dx="88" fill="#9aa4b2">10.0%</text>
+  </g>
+  <g class="row" style="animation-delay:1.38s">
+    <circle cx="250" cy="122" r="5" fill="#e0234e"/>
+    <text x="262" y="126" fill="#cdd3dd">YAML</text>
+    <text x="262" y="126" dx="88" fill="#9aa4b2">7.8%</text>
+  </g>
+  <g class="row" style="animation-delay:1.5s">
+    <circle cx="250" cy="146" r="5" fill="#6b7280"/>
+    <text x="262" y="150" fill="#cdd3dd">Other</text>
+    <text x="262" y="150" dx="88" fill="#9aa4b2">–</text>
+  </g>
+</g>
+
+<line x1="24" y1="172" x2="456" y2="172" stroke="#2d2249" stroke-width="1" opacity=".7"/>
+<text class="title" x="240" y="192" text-anchor="middle" font-size="10.5" letter-spacing="1" fill="#6b7280" style="animation-delay:1.6s">TERRAFORM • ANSIBLE • BASH • PYTHON • DOCKER</text>
+</svg>
