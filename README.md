@@ -51,7 +51,7 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=sonukkushwaha0801mittal0920&theme=radical&hide_border=true&background=170e28&ring=ff7eb6&fire=e879f9&currStreakLabel=c084fc" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=sonukkushwaha0801&theme=radical&hide_border=true&background=170e28&ring=ff7eb6&fire=e879f9&currStreakLabel=c084fc" alt="GitHub Streak"/>
 
 <br/><br/>
 
@@ -82,6 +82,3 @@
 *⚙️ Automating • Scaling • Securing Infrastructure* 💗
 
 </div>
-
-I have one of this readme.md file for github account.
-I want to change content from that to my 
