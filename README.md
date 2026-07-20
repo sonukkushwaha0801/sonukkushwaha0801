@@ -21,16 +21,12 @@
 </td>
 <td width="62%" valign="middle">
 
-### ⚙️ Production DevOps Projects
+### <h2 align="left">About me</h2>
 
-| 🎌 Project | 💻 Tech |
-|:---|:---:|:---:|
-| [🍥 DriftGuard](https://github.com/sonukkushwaha0801/terraform-drift-detector) | `Boto3` `Python` `Bash` | 
-| [⚔️ Gmail Login Validator](https://github.com/sonukkushwaha0801/Gmail-Login-Validator) | `Python` `Selenium` `Bash` |
-| [🌙 Python Selenium Automation](https://github.com/sonukkushwaha0801/Python-Selenium-Automation) | `Python` `Selenium` `Requests` | 
-| [👁️ Linux Automation Toolkit](https://github.com/sonukkushwaha0801/Linux-Automation-Toolkit) | `Bash` `Python` `Linux` |
-| [🏴‍☠️ DevOps Scenario Library](https://github.com/sonukkushwaha0801/DevOps-Scenario-Library) | `Terraform` `Kubernetes` `AWS` | 
-| [🏴‍☠️ Hashicorp Terraform Associate 004 Certification](https://github.com/sonukkushwaha0801/Terraform-associate-004-exam-prep) | `Terraform` `AWS` |
+###
+
+<p align="left">💻 Python Developer focused on backend systems, automation, and scalable applications<br>⚙️ Experienced in building web scrapers, task automation tools, REST APIs, and data-driven solutions<br>🐧 Comfortable working with Linux, Git, Bash, and modern development workflows<br>☁️ Currently expanding expertise in Docker, Kubernetes, AWS, CI/CD, and Infrastructure Automation<br>🚀 Passionate about solving real-world problems through automation and efficient system design<br>📚 Continuously learning and building production-oriented projects in Backend Development and DevOps<br>🎯 Seeking opportunities as a Python Developer, Backend Developer, Automation Engineer, or DevOps Engineer</p>
+
 
 <br/>
 
